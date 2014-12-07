@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WTCAccessories</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_time_connection">About Time Connection</string>
+    <string name="title_activity_amei">About Amei Collection</string>
+    <string name="title_activity_casio">About Casio</string>
+    <string name="timeconnection1"> Time Connection adalah sebuah toko aksesoris jam tangan yang menjual berbagai merk jam tangan seperti: alexandre christie, Expeditions, Fossil, Police. \njam tangan tersebut dijual untuk berbagai macam usia mulai dari anak-anak, remaja dewasa dan orang tua.\n</string>
+    <string name="timeconnection2"> \n Toko Connection berada di lantai 3 dekat di depan toko baju aneka media di WTC.</string>
+	<string name="casio1"> toko casio berada di lantai 2 WTC. Toko Casio menjual berbagai beberapa merk jam tangan yaitu Casio, Alexandre Christie, Expedition dll. Di toko ini tersedia jam tangan untuk anak-anak, remaja, dewasa, dan orang tua. dan di toko ini jual menjual beberapa perlengkapan jam seperti batrai jam, tali jam dll.</string>
+<string name="amei"> Amei adalah sebuah toko aksesoris yang menjual berbagai macam aksesoris mulai dari jam tangan, tas, dompet, tali pinggang, kaca mata dll. semua aksesoris yang dijual disini tersedia berbagai merk mulai dari dalam negeri maupun luar negeri. dan sini juga menjual berbagai aksesoris mulai dari aksesoris anak-anak, remaja, dewasa, dan orang tua. \n</string>
+<string name="amei2">Toko Amei dapat ditemu pada lantai 2 sebelah exkalator di WTC Jambi.</string>
+</resources>
